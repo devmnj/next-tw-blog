@@ -2,7 +2,7 @@ import React from 'react'
 import { useQuery } from 'urql';
 import { useRouter } from 'next/router'
 import { PostCard } from '../../Components/PostGrid';
-import { GridSkelton } from '../../Components/Loading';
+import { GridSkelton } from '../../Components/Skeltons';
 export default function CategoryPosts() {
     const router = useRouter()
     const { slug } = router.query

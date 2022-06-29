@@ -16,7 +16,7 @@ export function GridSkelton(){
 	return(<>
 	
 	<div className="container max-w-6xl p-6 mx-auto space-y-6 sm:space-y-12">
-          <span class="  ">
+          <span >
            
           </span>
           <div className="grid justify-center grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">

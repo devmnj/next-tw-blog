@@ -1,6 +1,6 @@
 import PostGrid from '../components/PostGrid'
 import { useQuery } from 'urql';
-import { GridSkelton } from '../components/Loading';
+import { GridSkelton } from '../Components/Skeltons';
 import { useEffect, useState } from 'react';
 export default function Home() {
   const query = ` query {

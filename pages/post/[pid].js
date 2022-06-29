@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useQuery } from 'urql';
-import { GridSkelton } from "../../components/Loading";
+import { GridSkelton } from "../../Components/Skeltons";
 import SinglePost from '../../Components/SinglePost'
   const Post = () => {
   const router = useRouter()
