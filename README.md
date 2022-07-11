@@ -56,11 +56,11 @@ yarn dev
 
 ## 🚀  Built Using <a name = "built_using"></a>
 
-- [Solidjs](http://nextjs.org/) - Nextjs
-- [urql/core](https://formidable.com/open-source/urql/) - Graphql Client
+- [Nextjs](http://nextjs.org/) - Nextjs
+- [urql](https://formidable.com/open-source/urql/) - Graphql Client
 - [Tailwindcss](https://tailwindcss.com/) - TailwindCSS
 - [Mockend](https://mockend.com/) - Mockend
-- [Vitejs](https://React.org/) - Reactjs
+- [Reactjs](https://React.org/) - Reactjs
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a> and Guides
